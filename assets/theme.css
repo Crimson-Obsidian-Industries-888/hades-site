@@ -1,0 +1,44 @@
+/* Founder Colors */
+.azure { color: #2F8FFF; }
+.crimson { color: #B5122A; }
+.purple { color: #7C3AED; }
+
+/* Section Accent Headers */
+.accent-azure {
+  border-left: 3px solid #2F8FFF;
+  padding-left: 8px;
+}
+
+.accent-crimson {
+  border-left: 3px solid #B5122A;
+  padding-left: 8px;
+}
+
+.accent-purple {
+  border-left: 3px solid #7C3AED;
+  padding-left: 8px;
+}
+
+/* Orb Glow Representation */
+.orb {
+  width: 16px;
+  height: 16px;
+  border-radius: 100%;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.orb-crimson {
+  background: #B5122A;
+  box-shadow: 0 0 12px #B5122A;
+}
+
+.orb-azure {
+  background: #2F8FFF;
+  box-shadow: 0 0 12px #2F8FFF;
+}
+
+.orb-purple {
+  background: #7C3AED;
+  box-shadow: 0 0 12px #7C3AED;
+}

@@ -1,0 +1,41 @@
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Logs and temp files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Node / tooling (in case tools are added later)
+node_modules/
+dist/
+build/
+.cache/
+.tmp/
+
+# Environment / secrets (not expected here, but safe to ignore)
+.env
+.env.*
+*.local
+
+# System files
+.Spotlight-V100
+.Trashes
+
+# Archives / exports
+*.zip
+*.tar
+*.tar.gz
+*.tgz
