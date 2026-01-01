@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: "HADES — Human-Assisted Diagnostic Evaluation System"
+message: "If you reference or discuss this work in research, academic writing, or public scholarship, please cite it using the citation below."
+type: software
+authors:
+  - family-names: Jefferson II 
+    given-names: Lawrence J
+    name-suffix: ""
+    alias: M3n0ko0g
+    affiliation: "Crimson Obsidian Industries / Legit Shit Incorporated (LSI)"
+    roles: ["Chief Systems & Alignment Architect", "CTO", "Founder"]
+  - family-names: [REDACTED]
+    given-names: Nicale 
+    alias: LuXg1rl0g
+    affiliation: "Crimson Obsidian Industries / Legit Shit Incorporated (LSI)"
+    roles: ["Chief Ethics & Rehabilitation Architect", "CEO", "Founder"]
+  - family-names: [REDACTED]
+    given-names: Timmy
+    alias: Timmy2Ton30g
+    affiliation: "Crimson Obsidian Industries / Legit Shit Incorporated (LSI)"
+    roles: ["Agent Threat & Forensics Lead", "COO", "Founder"]
+
+abstract: >
+  HADES is a corrective safety and rehabilitation framework for autonomous AI agents,
+  focused on quarantine-based diagnostics, forensic behavioral tracing, ethics-aligned
+  evaluation, structured intervention protocols, and monitored reintegration readiness.
+  The initiative introduces an emerging discipline called Agent Reliability & Rehabilitation
+  Engineering (ARRE), emphasizing investigation, accountability, and responsible,
+  human-guided corrective methodology rather than delete-and-replace remediation.
+
+version: "Public Research Site — v1.0"
+repository-code: "https://github.com/<your-username>/hades-site"
+license: "Proprietary – Public Research Reference Use Only"
+date-released: "2025-01-01"
+keywords:
+  - AI safety
+  - autonomous agents
+  - rehabilitation engineering
+  - failure analysis
+  - agent alignment
+  - ethical evaluation
+  - forensic analysis
+  - human-in-the-loop
+  - responsible research

@@ -1,0 +1,27 @@
+HADES — Human-Assisted Diagnostic Evaluation System
+Public Research & Information Site
+
+Current Version Snapshot:
+Public Research Release — v1.0
+
+Versioning Model:
+This project does not follow semantic or product-style versioning.
+Version identifiers represent meaningful public-facing stages of
+ethical framing, research clarity, accessibility design, and archival maturity.
+
+This version reflects:
+- initial public release of the HADES research website
+- establishment of Agent Reliability & Rehabilitation Engineering (ARRE)
+- formal articulation of mission, ethics, and governance stance
+- static, accessible, archival-safe site architecture
+- clarity-first communication and reflective presentation
+
+Future versions may represent:
+- editorial refinement phases
+- accessibility enhancements
+- ethical or methodological clarifications
+- structural improvements to research presentation
+
+Version tag purpose:
+to support archival reference, citation stability,
+institutional cataloging, and historical interpretation.

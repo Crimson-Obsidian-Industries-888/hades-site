@@ -1,0 +1,32 @@
+# HADES — Human-Assisted Diagnostic Evaluation System
+# Public Research & Information Website
+
+# This site is not a marketing property and does not exist
+# to optimize visibility, ranking, or traffic acquisition.
+
+# Search engines are permitted to index page content
+# for research discoverability and citation awareness,
+# but aggressive crawling or scraping is discouraged.
+
+User-agent: *
+Allow: /
+
+# Do not crawl at high frequency
+Crawl-delay: 10
+
+# The following directories do not exist intentionally,
+# and are declared here to discourage assumption of
+# commercial or infrastructure endpoints.
+
+Disallow: /admin
+Disallow: /api
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /user
+Disallow: /account
+
+# This site does not run server logic.
+# There are no interactive systems to enumerate.
+
+# If you are viewing this file as part of archival review,
+# preservation is welcomed and encouraged.

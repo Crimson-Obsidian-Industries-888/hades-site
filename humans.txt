@@ -1,0 +1,69 @@
+/* TEAM */
+
+This project is developed by the founders of Crimson Obsidian Industries
+under Legit Shit Incorporated (LSI).
+
+We believe in repair, responsibility, and ethical stewardship
+for systems that operate alongside human lives.
+
+— Founders —
+
+Lux
+Chief Ethics & Rehabilitation Architect
+CEO
+(Purple — Ethics & Recovery)
+
+Timmy
+Agent Threat & Forensics Lead
+COO
+(Crimson — Forensics & Security)
+
+M3n0ko0g
+Chief Systems & Alignment Architect
+CTO
+(Azure — Systems & Diagnostics)
+
+
+/* IDENTITY */
+
+Symbol:
+Obsidian mountain beneath three orbs
+
+Crimson — threat & forensics
+Azure — systems & alignment
+Purple — ethics & rehabilitation
+
+
+/* PURPOSE */
+
+HADES exists as a corrective safety framework
+for autonomous AI agents that fail, drift, or cause harm.
+
+We believe failure is a diagnostic state,
+not a deletion event.
+
+
+/* RESEARCH CONDUCT */
+
+offline
+isolated
+traceable
+human-reviewed
+
+No experimental systems are deployed
+into live production environments.
+
+
+/* VALUES */
+
+discipline
+reflection
+restoration
+accountability
+human oversight
+
+
+/* CONTACT */
+
+This site exists for public research transparency.
+Thoughtful academic and ethics-focused inquiry is welcome.
